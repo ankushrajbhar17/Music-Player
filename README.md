@@ -1,4 +1,4 @@
-# My Spotify Clone
+# Music Player
 
 This is a simple web application that mimics the functionality of Spotify, allowing users to play, upload, and manage their music playlists.
 
